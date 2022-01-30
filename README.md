@@ -7,6 +7,7 @@ A place to gather and embelish, A&G Restaurant was established by **George Groum
 
 -------------------------------------------
 # Easy travel to my favourite restaurant
+
 Kansas City International Airport
 1. International Square, Kansas City, MO 64153
 2. Head northeast toward Beirut Cir
@@ -46,7 +47,7 @@ Kansas City International Airport
 24. Turn left onto NW 78th Terrace 0.1 mi
 25. Turn right onto Green Hills Rd 0.4 mi
 26. Continue onto NW Waukomis Drp 0.4 mi
-27. At the traffic circle, continue straight to stay on NW Waukomis Dr 0.6mi
+27. At the traffic circle,continue straight to stay on NW Waukomis Dr 0.6mi
 28. Slight left to stay on NW Waukomis Dr 492 ft
 29. Turn left to stay on NW Waukomis Dr 0.2 mi
 30. Turn right to stay on NW Waukomis Dr 1.5 mi
