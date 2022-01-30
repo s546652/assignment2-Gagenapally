@@ -74,5 +74,3 @@ Kansas City International Airport
 * LOTZA MEATZA PIZZA
 * WHITE OUT
 * FRESH VEGGIE
-
-[Know more about me](https://github.com/s546652/assignment-Gagenapally/blob/main/AboutMe.md)
