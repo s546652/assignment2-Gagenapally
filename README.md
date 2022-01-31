@@ -83,9 +83,9 @@ Kansas City International Airport
 
 Basketball, Badminton, Cricket and Tennis are the sports which I would like to recommend to anyone, who is intrested in some physical activity.
 
-|  Name       |  Location | Amount  |
-|-------------|-----------|---------|
+|  Name       |  Location   | Amount|
+|-------------|-------------|-------|
 |  Basketball | Recreation  |  $50  |
 |  Badminton  | Recreation  |  $35  |
-|  Cricket    | Hughes  |   |  $50  |
+|  Cricket    | Hughes      |  $50  |
 |   Tennis    |  Recreation |  $55  |
