@@ -76,3 +76,16 @@ Kansas City International Airport
 * FRESH VEGGIE
 
 [Know more about me](https://github.com/s546652/assignment2-Gagenapally/blob/main/AboutMe.md)
+
+-----------------------------------------------
+
+# Sports
+
+Basketball, Badminton, Cricket and Tennis are the sports which I would like to recommend to anyone, who is intrested in some physical activity.
+
+|  Name       |  Location | Amount  |
+|-------------|-----------|---------|
+|  Basketball | Recreation  |  $50  |
+|  Badminton  | Recreation  |  $35  |
+|  Cricket    | Hughes  |   |  $50  |
+|   Tennis    |  Recreation |  $55  |
