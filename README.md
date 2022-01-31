@@ -89,3 +89,11 @@ Basketball, Badminton, Cricket and Tennis are the sports which I would like to r
 |  Badminton  | Recreation  |  $35  |
 |  Cricket    | Hughes      |  $50  |
 |   Tennis    |  Recreation |  $55  |
+
+----------------------------------------------------
+
+# Quotes
+
+> Life isn't about how to survive the storm, but how to dance in the rain. *Vivian Greene*
+
+> Life will never and ever allow us to settle down. *Jojo Moyes*
