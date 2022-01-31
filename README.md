@@ -104,3 +104,32 @@ Basketball, Badminton, Cricket and Tennis are the sports which I would like to r
 >Depth-first search (DFS) is an algorithm for traversing or searching tree or graph data structures. The algorithm starts at the root node (selecting some arbitrary node as the root node in the case of a graph) and explores as far as possible along each branch before backtracking.
 
 Link to Depth First Search https://en.wikipedia.org/wiki/Depth-first_search
+
+
+   
+      vector<vector<int>> adj; // graph represented as an adjacency list
+      int n; // number of vertices
+      vector<bool> visited;
+      void dfs(int v) {
+      visited[v] = true;
+      for (int u : adj[v]) {
+      if (!visited[u])
+      dfs(u);
+      }
+      }
+      vector<vector<int>> adj; // graph represented as an adjacency list
+      int n; // number of vertices
+      vector<int> color;
+      vector<int> time_in, time_out;
+      int dfs_timer = 0;
+      void dfs(int v) {
+      time_in[v] = dfs_timer++;
+      color[v] = 1;
+      for (int u : adj[v])
+      if (color[u] == 0)
+      dfs(u);
+      color[v] = 2;
+      time_out[v] = dfs_timer++;
+      }
+      
+ Implementation Code https://cp-algorithms.com/graph/depth-first-search.html
